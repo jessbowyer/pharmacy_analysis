@@ -1,13 +1,19 @@
-# Pharmacy Near Misses Analysis
+# Pharmacy Near-Miss Incident Analysis
 
-## Objective
-Analyse causes of near misses within the pharmacy
+## Project Summary
+This project explores simulated pharmacy medication near-miss data to identify common error types, contributing factors, and potential workflow risks. The aim was to demonstrate practical healthcare data analysis and basic patient-safety insight generation using Python.
 
-## Method
-Used Python (Pandas + Matplotlib) to visualise near miss data.
+## Approach
+The dataset was analysed using Pandas for data handling and Matplotlib for visualisation. Incident frequency was examined by error type and operational factors such as interruptions and dispensing stage. Simple visual reports were produced to highlight key safety patterns.
 
-## Results
-Picking error was the largest cause of near misses with wrong stength selected closely following
+## Key Insights
+Analysis indicated that certain dispensing-related errors occurred more frequently and that interruptions were commonly associated with incidents. These findings suggest that protected checking time and workflow adjustments could support risk reduction.
 
-## Conclusion
-Data suggests targeted workflow improvements and protected checking time could reduce error risk.
+## Technical Skills Demonstrated
+- Data loading and cleaning with Python  
+- Exploratory data analysis  
+- Visualisation of operational safety trends  
+- Interpretation of results in a healthcare context  
+
+## Purpose of the Project
+This work forms part of my data analytics portfolio, focusing on applying analytical methods to real-world healthcare safety scenarios.
